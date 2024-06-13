@@ -2,7 +2,7 @@ clear all
 set more off
 
 *** folder con la base de datos
-cd "C:\Users\Lenovo\Dropbox\ActualizacionDatos\Eleccion2024\ComparacionPresidencia2018-2024\MunicipiosENIGH\ElPais\Base"
+cd "C:\ "
 
 **Se carga la base de datos con las variables de análisis del modelo
 use ResultadosPresidenciaMunicipio2018_2024
